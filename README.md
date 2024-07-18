@@ -26,7 +26,8 @@ Here are a few projects I'm currently working on:
 ## Contact Me 📱
 I'm always open to connecting with new people and exploring new opportunities. Feel free to reach out to me at:
 
-- **LinkedIn:** [Sarsha's LinkedIn](www.linkedin.com/in/sarsha-newton-gnd1473)
+- **LinkedIn:** [Da LinkedIn](www.linkedin.com/in/sarsha-newton-gnd1473)
+- **Github:** [You're Already Here 🤩](https://github.com/SarshaNewton)
 
 ## Fun Fact 🍪
 I'm currently getting into food science as a hobby. My current goal is to create the ultimate cookie (crispy on the outside, chewey on the inside) without a recipe, solely by understanding the purpose of each ingredient.
