@@ -26,7 +26,7 @@ Here are a few projects I'm currently working on:
 ## Contact Me 📱
 I'm always open to connecting with new people and exploring new opportunities. Feel free to reach out to me at:
 
-- **LinkedIn:** [Da LinkedIn](www.linkedin.com/in/sarsha-newton-gnd1473)
+- **LinkedIn:** [Da LinkedIn](www.linkedin.com/in/sarsha)
 - **Github:** [You're Already Here 🤩](https://github.com/SarshaNewton)
 
 ## Fun Fact 🍪
