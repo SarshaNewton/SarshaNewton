@@ -10,11 +10,11 @@ Here are some of the skills and technologies I work with:
 
 | **Programming Languages**              | **Platforms**                                         | **Graphics**                                            |
 |----------------------------------------|-------------------------------------------------------|---------------------------------------------------------|
-| HTML, CSS, SQL, Java, JavaScript, Python, C++, C | Microsoft Office Suite, Google Suite, Windows, Linux, React, PowerBI, Git | Figma, Adobe Illustrator, Adobe Photoshop, After Effects, Krita | 
+| HTML, CSS, SQL, Java, JavaScript, Python, C++, C, PHP | Microsoft Office Suite, Google Suite, Windows, Linux, React, PowerBI, Git | Figma, Adobe Illustrator, Adobe Photoshop, After Effects, Krita | 
 
 
 ## Interests 😎
-In terms of my domain, I'm always aimming to improve my skills, however, I love working on projects that allow me to combine creativity with technical expertise. In my free time, I enjoy exploring new design trends and learning more about the latest technologies in web development.
+In terms of my domain, I'm always aimming to improve my skills, however, I love working on projects that allow me to combine creativity with technical expertise. In my free time, I enjoy exploring new design trends and learning more about the latest technologies in web development. Generally speaking, I L.O.V.E. space. I've actually considered changing to a physics degree and getting into Astronomy instead 🚀
 
 ## Current Projects 👩🏾‍💻
 Here are a few projects I'm currently working on:
