@@ -20,8 +20,8 @@ In terms of my domain, I'm always aimming to improve my skills, however, I love 
 Here are a few projects I'm currently working on:
 
 - **Personal Portfolio:** A showcase of my web design projects and skills (website is under construction).
-- **JavaScript, Python and C++ Practice:** Improving my JavaScript, Python and C++ skills through various mini-projects and challenges.
-- **✨The Big Summer 4️:✨** Over the summer I have set the goal to commit 4 big projects to my git. Specifically using _React_, _Java_, _Python_ and something incoperating _AI_.
+- **THE Thesis:** A Mail Client with enhanced security features and hopefully an AI that enables users to focus most on the important aspects of each email
+- **Side Projects:** More AI practice (BitLife Simultation Type Game & Draw Stickman Epic Inspired Game) 
 
 ## Contact Me 📱
 I'm always open to connecting with new people and exploring new opportunities. Feel free to reach out to me at:
