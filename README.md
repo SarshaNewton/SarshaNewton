@@ -14,7 +14,7 @@ Here are some of the skills and technologies I work with:
 
 
 ## Interests 😎
-In terms of my domain, I'm always aimming to improve my skills, however, I love working on projects that allow me to combine creativity with technical expertise. In my free time, I enjoy exploring new design trends and learning more about the latest technologies in web development. Generally speaking, I L.O.V.E. space. I've actually considered changing to a physics degree and getting into Astronomy instead 🚀
+In terms of my domain, I'm always aimming to improve my skills, however, I love working on projects that allow me to combine creativity with technical expertise. In my free time, I enjoy exploring new design trends and learning more about the latest technologies in web development. 
 
 ## Current Projects 👩🏾‍💻
 Here are a few projects I'm currently working on:
@@ -29,8 +29,8 @@ I'm always open to connecting with new people and exploring new opportunities. F
 - **LinkedIn:** [Da LinkedIn](https://www.linkedin.com/in/sarsha)
 - **Github:** [You're Already Here 🤩](https://github.com/SarshaNewton)
 
-## Fun Fact 🍪
-I'm currently getting into food science as a hobby. My current goal is to create the ultimate cookie (crispy on the outside, chewey on the inside) without a recipe, solely by understanding the purpose of each ingredient.
+## Fun Fact 🚀
+I L.O.V.E. space. I've actually considered changing to a physics degree and getting into Astronomy instead! In particular I'm deeply fascinated by black holes. My brain feels _spaghettified_ just trying to comprehend what may lay beyond the event horizon.
 
 ---
 
