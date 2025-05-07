@@ -2,15 +2,19 @@
 
 Hizies I'm **Sarsha**! 🤩🌸
 
-I'm a computer science student in love with the creative side of development i.e Front End development and UI/UX design. 
-My github contains both personal and school projects and this README serves to provide a bit of information about me, my skills, my interests, and what I'm currently working on.
+I’m a Computer Science student with a passion for the **creative side of development**, especially **UX design, product thinking, and front-end engineering**. My work bridges code and design — turning ideas into elegant, functional experiences.
+
+This GitHub showcases both personal and academic projects. Right now, I’m especially focused on:
+- Product design and UX research
+- Full-stack web development with Laravel + React
+- AI-enhanced user experiences
 
 ## Skills 🤓
 Here are some of the skills and technologies I work with:
 
-| **Programming Languages**              | **Platforms**                                         | **Graphics**                                            |
+| **Programming Languages**              | **Platforms**                                         | **Design & Creative Tools**                             |
 |----------------------------------------|-------------------------------------------------------|---------------------------------------------------------|
-| HTML, CSS, SQL, Java, JavaScript, Python, C++, C, PHP | Microsoft Office Suite, Google Suite, Windows, Linux, React, PowerBI, Git | Figma, Adobe Illustrator, Adobe Photoshop, After Effects, Krita | 
+| HTML, CSS, SQL, Java, JavaScript, Python, C++, C, PHP |React, Laravel, Filament, Git, Power BI, Windows, Linux, Google Suite, Microsoft Suite | Figma, Adobe Illustrator, Adobe Photoshop, After Effects, Krita, Canva, Miro | 
 
 
 ## Interests 😎
