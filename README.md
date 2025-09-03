@@ -30,9 +30,9 @@ Here are a few projects I'm currently working on:
 ## Contact Me 📱
 I'm always open to connecting with new people and exploring new opportunities. Feel free to reach out to me at:
 
-[Portfolio](https://sarshanewton.github.io/Portfolio/)
-[LinkedIn](https://www.linkedin.com/in/sarsha)
-[Dribbble](https://dribbble.com/SarshaNewton)
+[Portfolio](https://sarshanewton.github.io/Portfolio/)  
+[LinkedIn](https://www.linkedin.com/in/sarsha)  
+[Dribbble](https://dribbble.com/SarshaNewton)  
 
 ## Fun Fact 🚀
 I L.O.V.E. space. I've actually considered changing to a physics degree and getting into Astronomy instead! In particular I'm deeply fascinated by black holes. My brain feels _spaghettified_ just trying to comprehend what may lay beyond the event horizon.
