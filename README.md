@@ -2,7 +2,7 @@
 
 Hizies I'm **Sarsha**! 🤩🌸
 
-I’m a Computer Science student with a passion for the **creative side of development**, especially **UX design, product thinking, and front-end engineering**. My work bridges code and design — turning ideas into elegant, functional experiences.
+I’m a UX enthusiast with a background in CompSci and a passion for the **creative side of development**, especially **UX design, product thinking, and front-end engineering**. My work bridges code and design — turning ideas into elegant, functional experiences.
 
 This GitHub showcases both personal and academic projects. Right now, I’m especially focused on:
 - Product design and UX research
