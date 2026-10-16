@@ -54,7 +54,7 @@ I'm always interested in thoughtful conversations, creative collaborations, and 
 
 🪐 **[Portfolio](https://sarshanewton.github.io/Portfolio/)**  
 💼 **[LinkedIn](https://www.linkedin.com/in/sarsha)**  
-✉️ **[E-Mail](mailto:hey.sarsha@gmail.com)**
+✉️ **[E-Mail](mailto:heysarsha@gmail.com)**
 
 ---
 
